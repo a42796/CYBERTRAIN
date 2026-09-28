@@ -48,5 +48,5 @@ A plataforma alia a **aprendizagem prática à gamificação**, permitindo que e
 
 ### **Ambiente de Desenvolvimento & Ferramentas:**
 * **Visual Studio Code** — Editor de código principal.
-* **wAMPP** — Servidor local.
-* **Git & GitHub** — Controlo de versões e alojamento do repositório.
+* **WAMPP** — Servidor local.
+* **GitHub** — Controlo de versões e alojamento do repositório.
